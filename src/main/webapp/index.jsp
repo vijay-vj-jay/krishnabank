@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Krishna Bank - Home check1</title>
+    <title>Krishna Bank - Home check2</title>
 </head>
 <body>
 <h1>Krishna Bank</h1>
