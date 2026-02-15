@@ -28,7 +28,7 @@ public class WelcomeServlet extends HttpServlet {
         out.println("<title>Krishna Bank - Welcome</title>");
         out.println("</head>");
         out.println("<body>");
-        out.println("<h1>Welcome to Krishna Bank</h1>");
+        out.println("<h1>Welcome to Vijay Bank</h1>");
         out.println("<p>Simple sample application running on Tomcat (Java 1.8).</p>");
         out.println("<ul>");
         out.println("<li>Customer Name: Krishna</li>");
@@ -40,3 +40,4 @@ public class WelcomeServlet extends HttpServlet {
         out.println("</html>");
     }
 }
+
